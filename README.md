@@ -26,6 +26,8 @@
 - `services` 服务层，业务逻辑代码在这一层编写，通过不同的接口获取的数据转换成统一的前端所需要的数据
 - `app.js` 主项目入口文件
 - `package.json` 项目配置文件
+- 接口文档：https://shop-api.circle.ink/
+- 项目在线总结：https://vuejs.circle.ink/eshop-admin/
 
 ## Develop
 
